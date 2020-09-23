@@ -1,0 +1,34 @@
+
+
+body, html {
+    margin: 0;
+    padding: 0;
+	height: 100%;
+	background-image: linear-gradient(to right, yellow , green);
+}
+
+div{
+	display: block;
+	width: 350px;
+	margin: auto;
+	color: white;
+}
+
+h1{
+	text-align: center;
+	color: white;
+	Font-family: 'Lemonada', cursive;
+	text-transform: uppercase;
+}
+
+ul{
+	margin:0;
+	padding: 0;
+	color: white;
+}
+
+#completed-tasks span{
+	text-decoration: line-through;
+	font-size: 1.2em;
+	color: white;
+}
